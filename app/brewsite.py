@@ -21,3 +21,4 @@ def about():
 
 if __name__ == "__main__":
 	app.run(debug=True)
+# End of the Flask application setup for the brewery website
